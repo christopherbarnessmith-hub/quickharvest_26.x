@@ -3,13 +3,13 @@
 	"id": "quickharvest",
 	"version": "${version}",
 	"name": "Quick Harvest",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Right-click fully grown crops to harvest and auto-replant them. Supports vanilla and most modded crops out of the box. Configurable hoe requirement, durability cost, XP drops, and per-block allow/deny lists.",
 	"authors": [
-		"Me!"
+		"KingxIon!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://ionwiki.netlify.app/",
+		"sources": "https://github.com/christopherbarnessmith-hub/quickharvest_26.x"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/quickharvest/icon.png",
